@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*.log
+pid.txt
+*.sh
+*.pyc
+
+
+# Environment
+ibm_capstone/
